@@ -1,0 +1,31 @@
+*{
+   margin: 0px;
+   padding: 0px;
+
+
+}
+body{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.vaeQg0oQcWmxn3hWMXEpTgHaEo&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+}
+.main{
+    margin-top: 50px;
+   
+    
+}
+/* #wer{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+#qwe{
+    margin-top: 200px;
+    margin-left: 50px;
+} */
+
+#mai{
+    margin-top: 70px;
+    
+}
